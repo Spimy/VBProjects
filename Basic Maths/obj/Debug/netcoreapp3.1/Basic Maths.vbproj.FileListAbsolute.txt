@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.exe
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.deps.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.runtimeconfig.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.runtimeconfig.dev.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\bin\Debug\netcoreapp3.1\Basic Maths.pdb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\obj\Debug\netcoreapp3.1\Basic Maths.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\obj\Debug\netcoreapp3.1\Basic Maths.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\obj\Debug\netcoreapp3.1\Basic Maths.AssemblyInfo.vb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\obj\Debug\netcoreapp3.1\Basic Maths.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Basic Maths\obj\Debug\netcoreapp3.1\Basic Maths.pdb
