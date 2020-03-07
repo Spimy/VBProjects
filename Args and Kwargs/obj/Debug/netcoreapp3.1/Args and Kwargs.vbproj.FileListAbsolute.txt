@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.exe
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.deps.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.runtimeconfig.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.runtimeconfig.dev.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\bin\Debug\netcoreapp3.1\Args and Kwargs.pdb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\obj\Debug\netcoreapp3.1\Args and Kwargs.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\obj\Debug\netcoreapp3.1\Args and Kwargs.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\obj\Debug\netcoreapp3.1\Args and Kwargs.AssemblyInfo.vb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\obj\Debug\netcoreapp3.1\Args and Kwargs.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Args and Kwargs\obj\Debug\netcoreapp3.1\Args and Kwargs.pdb
