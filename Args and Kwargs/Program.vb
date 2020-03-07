@@ -1,14 +1,17 @@
 Imports System
 
 Module Program
-
-    Class CustomException
+    
+    ' Testing custom Exceptions by inherting the class
+    '=================================================
+    Class CustomException 
         Inherits Exception
     End Class
 
     Class EmptyException
         Inherits CustomException
     End Class
+    '=================================================
 
     Sub Addition(ParamArray nums() As Integer)
 
@@ -28,7 +31,7 @@ Module Program
 
     Sub Main()
 
-        Addition()
+    Addition(5, 10, 50, 100)
         Console.ReadKey()
 
     End Sub
