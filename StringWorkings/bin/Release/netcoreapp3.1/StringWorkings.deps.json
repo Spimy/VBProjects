@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringWorkings/1.0.0": {
+        "runtime": {
+          "StringWorkings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringWorkings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
