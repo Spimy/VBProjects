@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.exe
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.deps.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.runtimeconfig.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.runtimeconfig.dev.json
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\bin\Debug\netcoreapp3.1\Custom Console Functions.pdb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\obj\Debug\netcoreapp3.1\Custom Console Functions.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\obj\Debug\netcoreapp3.1\Custom Console Functions.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\obj\Debug\netcoreapp3.1\Custom Console Functions.AssemblyInfo.vb
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\obj\Debug\netcoreapp3.1\Custom Console Functions.dll
+C:\Users\acer\Desktop\William\School\Computer Science\Visual Basic Projects\Custom Console Functions\obj\Debug\netcoreapp3.1\Custom Console Functions.pdb
