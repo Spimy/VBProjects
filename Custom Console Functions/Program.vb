@@ -25,7 +25,7 @@ Module Program
 
         Dim age As Integer
 
-        While age < 1 Or age > 150
+        While age < 1 Or age > 122
 
             Try
                 age = Input("How old are you?: ", ConsoleColor.Yellow)
@@ -35,7 +35,7 @@ Module Program
                 Continue While
             End Try
 
-            If age < 1 Or age > 150 Then
+            If age < 1 Or age > 122 Then
                 PrintLine("Please enter a valid age!", ConsoleColor.Red)
                 PrintLine()
             End If
