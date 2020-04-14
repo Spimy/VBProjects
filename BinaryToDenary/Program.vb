@@ -4,10 +4,7 @@ Module Program
 
     Function isBit(chr As Char) As Boolean ' Check if the character is 0 or 1 and nothing else
 
-        If chr = "1" Or chr = "0" Then
-            Return True
-        End If
-
+        If chr = "1" Or chr = "0" Then Return True
         Return False
 
     End Function
